@@ -9,7 +9,7 @@
 
 See https://github.com/RDFLib/sparqlwrapper/graphs/contributors
 
-* [@eggplants]https://github.com/eggplants: most things to make 2.0.0 happen
+* ([@eggplants](https://github.com/eggplants)): most things to make 2.0.0 happen
 * Obey Arthur Liu ([@ArthurLiu](http://github.com/ArthurLiu)): different patches
 * Christopher Lenz ([@cmlenz](http://github.com/cmlenz)): feature to allow developers to choose the json module
 * Pēteris Caune ([@cuu508](http://github.com/cuu508)): great feedback and patches
@@ -35,3 +35,5 @@ See https://github.com/RDFLib/sparqlwrapper/graphs/contributors
 * Dan Michael O. Heggø ([@danmichaelo](https://github.com/danmichaelo)): update README with SPARQLWrapper2 example
 * Sam Clements ([@borntyping](https://github.com/borntyping)): Provide hints about setting properly the timeout
 * Marc Feger ([@MaFeg100](https://github.com/MaFeg100)): Improve/tests for development
+* Lucas Werkmeister ([lucaswerkmeister](https://github.com/lucaswerkmeister)): Fix version in default user agent [#216](https://github.com/RDFLib/sparqlwrapper/pull/216)
+
